@@ -1,15 +1,15 @@
 # Arrays-and-Objects
 
 
-Unit displays a box that it's background changes after each second for seven seconds.
+Unit finds the highest rated TV show and the 2nd highest rated TV show from the provided array.
 
 ## Preview
 
-See the final product: https://artsyl3.github.io/Async-Await/
+See the final product: https://artsyl3.github.io/Arrays-and-Objects/
 
 ## Features
 
-- A website where a background of a box changes with delay (in millisec).
+- Using the reduce() function to find the maximum vallue.
 
 
 ## Technologies
