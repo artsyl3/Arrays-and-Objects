@@ -9,7 +9,7 @@ See the final product: https://artsyl3.github.io/Arrays-and-Objects/
 
 ## Features
 
-- Using the reduce() function to find the maximum vallue.
+- Using the reduce() function to find the maximum value.
 
 
 ## Technologies
