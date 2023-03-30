@@ -52,7 +52,7 @@ const highestRated = tvShows.reduce((prev, current) => {
     }
 });
 
-console.log(`The highest rated TV show is ${highestRated.title}`);
+document.write(`The highest rated TV show is ${highestRated.title}` + ".<br>");
 
 // Find second highest rated TV show
 const secondHighestRated = tvShows.reduce((prev, current) => {
@@ -63,4 +63,4 @@ const secondHighestRated = tvShows.reduce((prev, current) => {
     }
 }, {score: -Infinity});
 
-console.log(`The second highest rated TV show is ${secondHighestRated.title}`);
+document.write(`The second highest rated TV show is ${secondHighestRated.title}` + ".");
